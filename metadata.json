@@ -1,0 +1,6 @@
+{
+  "name": "TANESİ – Zikir ve Tesbih Uygulaması",
+  "description": "Geleneksel İslam sanatının zarafetiyle günlük virdlerinizi, haftanın tesbihlerini ve özel zikirlerinizi huzurla takip edebileceğiniz dijital zikir ve tesbih uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
